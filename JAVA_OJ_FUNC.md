@@ -16,3 +16,4 @@ endIndex可选，当endIndex为空的时候函数返回从beginIndex到字符串
 2. 当beginIndex为0，endIndex为正整数时返回整个字符串。
 3. 若字符串长度为len, beginIndex 的合法取值范围是[0,len]，包括len。当beginIndex 为len时，返回空字符串。
 
+### String.charAt
